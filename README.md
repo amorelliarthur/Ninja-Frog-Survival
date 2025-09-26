@@ -17,5 +17,5 @@ O objetivo é coletar morangos e chegar até a plataforma final.
   - `Left Stick` → mover esquerda/direita  
   - `Button South (A / X dependendo do controle)` → pular  
 
-## 💻 Plataformas
+## Plataformas
 - Windows 
